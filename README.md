@@ -33,3 +33,5 @@ npm run cy:run
 ```bash
 cypress/reports
 ```
+<img width="1436" alt="Screenshot 2023-03-01 at 12 57 35" src="https://user-images.githubusercontent.com/5995542/222133063-7670399c-90df-4d72-8cb1-a5027047da06.png">
+
